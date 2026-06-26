@@ -8,7 +8,7 @@ A professional **Sales Dashboard** built in **Microsoft Excel** to analyze and m
 
 > Replace the image path with your repository image location.
 
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](images/Dashboard.png)
 
 ---
 
