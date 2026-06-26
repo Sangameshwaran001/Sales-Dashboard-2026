@@ -8,7 +8,7 @@ An interactive **Sales Dashboard** built in **Microsoft Excel** to analyze sales
 
 > Save the dashboard screenshot as **dashboard.png** inside the project folder.
 
-![Sales Dashboard](dashboard.png)
+![Sales Dashboard](Dashboard.png)
 
 ---
 
@@ -112,7 +112,7 @@ Excel dashboard/
 
 ## 📷 Screenshot
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
@@ -134,7 +134,3 @@ Excel dashboard/
 **Sangameshwaran B**
 
 ---
-
-## ⭐ If you like this project
-
-If you found this dashboard helpful, consider giving the repository a **⭐ Star**.
